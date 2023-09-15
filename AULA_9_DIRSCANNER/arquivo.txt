@@ -1,0 +1,4 @@
+backups
+senhas
+wp-admin
+wp-content
